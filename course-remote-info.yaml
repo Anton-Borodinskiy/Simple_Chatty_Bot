@@ -50,6 +50,10 @@ topics:
   - title: While loop
     theory_id: 5940
   4:
+  - title: List
+    theory_id: 5979
+  - title: Indexes
+    theory_id: 6189
   - title: Invoking a function
     theory_id: 5891
   - title: Declaring a function
